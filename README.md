@@ -96,6 +96,7 @@
 - [Streamus](https://github.com/MeoMix/StreamusChromeExtension)
 - [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools
 - [ES6 Marionette Project](https://github.com/abiee/es6-marionette)
+- [MarionetteJS + Webpack/ES6 + Routing Boilerplate](https://github.com/alexpsi/marionette-es6-webpack)
 
 ## Libraries
 
